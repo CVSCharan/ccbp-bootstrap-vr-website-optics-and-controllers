@@ -2,7 +2,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="container">
+    <div className="container bg-container">
       <div className="row">
         <div className="col-12 col-md-6">
           <div className="card-container d-flex flex-column justify-content-center p-3">
